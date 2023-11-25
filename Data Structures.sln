@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Structures", "Data Structures\Data Structures.csproj", "{A0B124B4-D8A1-4CFE-9462-FEE0044C7964}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data Structures", "Data Structures\Data Structures.csproj", "{A0B124B4-D8A1-4CFE-9462-FEE0044C7964}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm Challenges", "Algorithm Challenges\Algorithm Challenges.csproj", "{D917049F-4232-44B2-BFF4-3A1BF59FE490}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm Challenges", "Algorithm Challenges\Algorithm Challenges.csproj", "{D917049F-4232-44B2-BFF4-3A1BF59FE490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refreshers", "Refreshers\Refreshers.csproj", "{A345F27C-6B1A-4B34-B923-1FFFA9E2422E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D917049F-4232-44B2-BFF4-3A1BF59FE490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D917049F-4232-44B2-BFF4-3A1BF59FE490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D917049F-4232-44B2-BFF4-3A1BF59FE490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A345F27C-6B1A-4B34-B923-1FFFA9E2422E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A345F27C-6B1A-4B34-B923-1FFFA9E2422E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A345F27C-6B1A-4B34-B923-1FFFA9E2422E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A345F27C-6B1A-4B34-B923-1FFFA9E2422E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
