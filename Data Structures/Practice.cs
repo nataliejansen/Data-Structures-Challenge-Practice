@@ -170,7 +170,7 @@ namespace Data_Structures
             int[] multiTwo = { 3, 4, 5 };
 
             Console.WriteLine(multiOne.Sum() + multiTwo.Sum());
-            
+
 
 
             #endregion
