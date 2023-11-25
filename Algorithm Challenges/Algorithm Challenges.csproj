@@ -6,7 +6,7 @@
     <RootNamespace>Algorithm_Challenges</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Algorithm_Challenges.ReverseInPlace</StartupObject>
+    <StartupObject>Algorithm_Challenges.SetandHashSetPractice</StartupObject>
   </PropertyGroup>
 
 </Project>
