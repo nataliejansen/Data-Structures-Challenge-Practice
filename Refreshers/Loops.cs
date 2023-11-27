@@ -66,7 +66,32 @@ namespace Refreshers
             //Wait before closing
             Console.ReadKey();
 
-            
+            #region VIDEO TUTORIAL NOTES (Computer Science)
+
+            //FOR Loop is a count controlled loop
+            //For (loop counter --> Exit condition --> Increment or decrement each time the loop is passed through
+
+            //for (int i = 0; i < length; i++)
+            //{
+
+            //}
+
+            Console.WriteLine();
+            Console.WriteLine();
+
+            string myName = "Natalie";
+            string oneLetter;
+            //int stringLength = myName.Length;   would change the condition to i < stringLength
+
+            for (int i = 0; i <= 6; i++) // <--start at position 0; 7 letters in Natalie; increment one time per loop
+            {
+                oneLetter = myName.Substring(i, 1); //<-- start index  ,  length(extracts one character)
+                Console.WriteLine(oneLetter);
+            }
+            //variable i is declared in the for loop so it can only be used inside the for loop. This is called a block level scope
+            #endregion
+
+
 
         }
     }
