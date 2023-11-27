@@ -102,6 +102,43 @@ namespace Data_Structures
                 Console.WriteLine("Value has NOT been found");
             }
 
+            #region Video Tutorial Notes
+
+            //Option for non-numerical indexes
+            //flexibility when it comes to making keys
+            //speed which comes with hash table implementation
+
+            //Dictionaries are implemented with a HashTable
+            //The keys in the key/value pairs are stored in memory IN these hash tables at indexes(reminder these are determined by the hash function)
+
+            //Dictionary - an abstract Data Structure which stores data in the form of key/value pairs
+            //           - Example: Key = Social Security Number, Value = Human ----> Dictionary = All humans
+
+            //Basic Info
+            //We index dictionaries using keys instead of a numerical index
+            //The keys in a key/value pair can pretty much be any primitive data type (int, string, char, etc)
+
+
+
+            //Dictionary Properties
+
+            //There can be duplicates of values, just not keys
+
+            //Important Restrictions
+            // - every key can only appear once within the dictionary
+            // - each key can only have one value
+
+            //Hash Tables / Hash Functions
+
+            //Examples
+
+            //Time Complexity Equations
+            //We generally measure a data structure based on it's worst-case scenario
+
+
+
+
+            #endregion
 
 
         }

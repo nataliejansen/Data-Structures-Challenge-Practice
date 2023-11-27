@@ -6,7 +6,7 @@
     <RootNamespace>Data_Structures</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Data_Structures.Practice</StartupObject>
+    <StartupObject>Data_Structures.Sets</StartupObject>
   </PropertyGroup>
 
 </Project>
